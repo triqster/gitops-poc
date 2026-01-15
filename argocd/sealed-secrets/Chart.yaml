@@ -1,0 +1,8 @@
+apiVersion: v2
+name: sealed-secrets
+version: 2.18.0
+description: Sealed Secrets controller
+dependencies:
+  - name: sealed-secrets
+    version: 2.18.0
+    repository: https://bitnami-labs.github.io/sealed-secrets
